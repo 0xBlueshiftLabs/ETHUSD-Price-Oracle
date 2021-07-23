@@ -5,7 +5,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-# CryptoZombies-How-to-Build-an-Oracle
+# ETHUSD Price Oracle
 
 Ethereum-Dollar price oracle that calls upon Binance's public API.
 
