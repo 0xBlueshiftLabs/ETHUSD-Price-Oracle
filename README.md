@@ -59,7 +59,7 @@ Twitter - [@TraderTDF](https://twitter.com/TraderTDF)
 
 LinkedIn - [https://www.linkedin.com/in/RAMWatson/](https://www.linkedin.com/in/RAMWatson/)
 
-Project Link: [https://github.com/Elisik/CryptoZombies-How-to-Build-an-Oracle](https://github.com/Elisik/CryptoZombies-How-to-Build-an-Oracle)
+Project Link: [https://github.com/0xTDF/CryptoZombies-How-to-Build-an-Oracle](https://github.com/0xTDF/CryptoZombies-How-to-Build-an-Oracle)
 
 
 
