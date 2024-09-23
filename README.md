@@ -55,11 +55,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Twitter - [@TraderTDF](https://twitter.com/TraderTDF)
+Twitter - [@0xTDF](https://twitter.com/0xTDF)
 
 LinkedIn - [https://www.linkedin.com/in/RAMWatson/](https://www.linkedin.com/in/RAMWatson/)
 
-Project Link: [https://github.com/0xTDF/CryptoZombies-How-to-Build-an-Oracle](https://github.com/0xTDF/CryptoZombies-How-to-Build-an-Oracle)
+Project Link: [https://github.com/0xBlueshiftLabs/ETHUSD-Price-Oracle](https://github.com/0xBlueshiftLabs/ETHUSD-Price-Oracle)
 
 
 
