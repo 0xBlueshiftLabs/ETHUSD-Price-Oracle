@@ -29,7 +29,7 @@ Oracles provide a link between off-chain and on-chain data and are vital within 
 
 🤖 Interact with Binance's API
 
-🦸‍♂️ Improve web3js knowledge
+🦸‍♂️ Improve web3.js knowledge
 
 ☑️ Practice advanced JavaScript concepts
 
